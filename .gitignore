@@ -30,3 +30,6 @@ Capitulos/*.aux
 *.lot
 *.idx
 *.pdf
+
+# Diretórios diversos não rastreados: 
+fontes/fontes_absolutas
