@@ -1,20 +1,20 @@
 # Fdb version 4
-["bibtex Monografia_config"] 1752959061.35341 "Monografia_config.aux" "Monografia_config.bbl" "Monografia_config" 1752959065.35159 0
+["bibtex Monografia_config"] 1752959371.60303 "Monografia_config.aux" "Monografia_config.bbl" "Monografia_config" 1752959375.22252 0
   "./referencias.bib" 1752959050 57501 7e56d16e11958f8cb57a7aced4a78f37 ""
   "C:/Program Files/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Program Files/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "Monografia_config.aux" 1752959064 9820 97c7756d2b1085a909bc74847be7d883 "pdflatex"
+  "Monografia_config.aux" 1752959374 9820 97c7756d2b1085a909bc74847be7d883 "pdflatex"
   (generated)
   "Monografia_config.bbl"
   "Monografia_config.blg"
   (rewritten before read)
-["makeindex Monografia_config.idx"] 1752959056.35117 "Monografia_config.idx" "Monografia_config.ind" "Monografia_config" 1752959065.35076 0
-  "Monografia_config.idx" 1752959063 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex Monografia_config.idx"] 1752959367.56818 "Monografia_config.idx" "Monografia_config.ind" "Monografia_config" 1752959375.22196 0
+  "Monografia_config.idx" 1752959373 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "Monografia_config.ilg"
   "Monografia_config.ind"
   (rewritten before read)
-["pdflatex"] 1752959061.68629 "c:/Users/Vitor/Documents/GitHub/Sistema-GAD---Pesquisa/Monografia_config.tex" "Monografia_config.pdf" "Monografia_config" 1752959065.35264 0
+["pdflatex"] 1752959371.90631 "c:/Users/Vitor/Documents/GitHub/Sistema-GAD---Pesquisa/Monografia_config.tex" "Monografia_config.pdf" "Monografia_config" 1752959375.22325 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136786654 4524 6bce29db5bc272ba5f332261583fee9c ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb8t.tfm" 1136786654 6880 f19b8995b61c334d78fc734065f6b4d4 ""
@@ -251,20 +251,20 @@
   "C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map" 1752903911 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Vitor/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1752903710 13244287 8f547aac9dc410b86af03204431c1a8a ""
   "Capitulos/Cap01-Introducao.tex" 1752902553 2636 3b223f0f7426a747893d42ab6570eaf0 ""
-  "Capitulos/Cap02-Objetivos.tex" 1752959050 1245 0e7bd7bd7ddfd4440933ba183739a5d4 ""
+  "Capitulos/Cap02-Objetivos.tex" 1752959362 1246 2bed177b9d815e130c1af5fb71ed8bad ""
   "Capitulos/Cap03-Referencial.tex" 1752959050 2612 4d951ffee849d1221919e7ea3a875071 ""
   "Capitulos/Cap04-Metodologia.tex" 1752902553 1543 69cbd86bdc3ba71ee6a36ef831035ab6 ""
   "Capitulos/Cap05-Resultados.tex" 1752902553 1017 f19cc35038972c0797c40d9916f0871f ""
   "Capitulos/Cap06-Conclusoes.tex" 1752902553 491 27a7ce34cfae973fb52704c7c4e9ceb1 ""
   "Capitulos/Cap07-Cronograma.tex" 1752902553 2198 3b192915e0c0c7de1f0000669a5a36c8 ""
-  "Monografia_config.aux" 1752959064 9820 97c7756d2b1085a909bc74847be7d883 "pdflatex"
-  "Monografia_config.bbl" 1752959061 540 df4d4cf33ecea41f99e6c8210938e1fb "bibtex Monografia_config"
-  "Monografia_config.brf" 1752959064 53 25a97ba4d9c769726be601af2d016586 "pdflatex"
-  "Monografia_config.ind" 1752959056 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Monografia_config.idx"
-  "Monografia_config.lof" 1752959064 154 0c79028fbd3c7352a4c42ae3325aebcb "pdflatex"
-  "Monografia_config.lot" 1752959064 141 0a54c31902b4e33e1dae9fe74925b3f4 "pdflatex"
+  "Monografia_config.aux" 1752959374 9820 97c7756d2b1085a909bc74847be7d883 "pdflatex"
+  "Monografia_config.bbl" 1752959371 540 df4d4cf33ecea41f99e6c8210938e1fb "bibtex Monografia_config"
+  "Monografia_config.brf" 1752959374 53 25a97ba4d9c769726be601af2d016586 "pdflatex"
+  "Monografia_config.ind" 1752959367 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Monografia_config.idx"
+  "Monografia_config.lof" 1752959374 154 0c79028fbd3c7352a4c42ae3325aebcb "pdflatex"
+  "Monografia_config.lot" 1752959374 141 0a54c31902b4e33e1dae9fe74925b3f4 "pdflatex"
   "Monografia_config.tex" 1752902553 16025 8de9cde89df29827328100713fdf2b4e ""
-  "Monografia_config.toc" 1752959064 2898 2a2e319ed7bbb2d2469dd67f85825234 "pdflatex"
+  "Monografia_config.toc" 1752959374 2898 2a2e319ed7bbb2d2469dd67f85825234 "pdflatex"
   "Pos_textual/AnexoA.tex" 1752902553 446 c3fb624ad6ee35c3801b89a589a8a7e8 ""
   "Pos_textual/ApendiceA.tex" 1752902553 504 a823228159b96d0a96620e86f88ab9bf ""
   "Pre_textual/Abstract.tex" 1752902553 311 7306e25eb54b7dfa5295e685834ad390 ""
