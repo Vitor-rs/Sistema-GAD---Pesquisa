@@ -21,7 +21,7 @@
 	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
 	% Opções do pacote babel
 	english,			% idioma adicional para hifenização
-    spanish,			% idioma adicional para hifenização
+	spanish,			% idioma adicional para hifenização
 	brazil,				% o último idioma é o principal do documento
 ]{abntex2}
 
@@ -220,7 +220,7 @@
 
 % Agradecimentos
 \renewenvironment{agradecimentos}[1][\agradecimentosname]{%
-    %\ABNTEXchapterfont{\large{#1}}
+	%\ABNTEXchapterfont{\large{#1}}
    \pretextualchapter{\large{#1}}
   }{\PRIVATEclearpageifneeded}
 % ---
@@ -310,23 +310,23 @@
 \makepagestyle{meuestilo}
   %%cabeçalhos
   \makeevenhead{meuestilo} %%pagina par
-     {\thepage}         % esquerda
-     {}         % centro
-     {} % direita
+	 {\thepage}         % esquerda
+	 {}         % centro
+	 {} % direita
   \makeoddhead{meuestilo} %%pagina ímpar ou com oneside
-     {} % esquerda
-     {}         % centro
-     {\thepage}         % direita
+	 {} % esquerda
+	 {}         % centro
+	 {\thepage}         % direita
   %\makeheadrule{meuestilo}{\textwidth}{\normalrulethickness} %linha
   %% rodapé
   %\makeevenfoot{meuestilo}
-     %{rodapé par à esquerda} %%pagina par
-     %{centro \thepage}
-     %{\thepage} 
+	 %{rodapé par à esquerda} %%pagina par
+	 %{centro \thepage}
+	 %{\thepage} 
   %\makeoddfoot{meuestilo} %%pagina ímpar ou com oneside
-     %{rodapé ímpar/onside à esquerda}
-     %{centro \thepage}
-     %{\thepage}
+	 %{rodapé ímpar/onside à esquerda}
+	 %{centro \thepage}
+	 %{\thepage}
 
 
 %===========================================
@@ -413,16 +413,16 @@
 %*******************************************************
 %                Acronimos
 %*******************************************************
-    %\phantomsection 
-    %\refstepcounter{dummy}
-    %\pdfbookmark[1]{Acronyms}{acronyms}
-    %\markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
-    %\chapter*{\large{Acrônimos}}
-    %\begin{acronym}[UML]
-        %\acro{XXX}{nome aqui}
-    %\end{acronym} 
-    
-    %\cleardoublepage
+	%\phantomsection 
+	%\refstepcounter{dummy}
+	%\pdfbookmark[1]{Acronyms}{acronyms}
+	%\markboth{\spacedlowsmallcaps{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+	%\chapter*{\large{Acrônimos}}
+	%\begin{acronym}[UML]
+		%\acro{XXX}{nome aqui}
+	%\end{acronym} 
+	
+	%\cleardoublepage
 % ---
 
 % ---
@@ -457,6 +457,7 @@
 \input{Capitulos/Cap05-Resultados}
 \input{Capitulos/Cap06-Conclusoes}
 \input{Capitulos/Cap07-Cronograma}
+\input{Capitulos/Cap08-RegrasAtividadesComplementares}
 
 % ----------------------------------------------
 %         Referências bibliográficas
