@@ -34,3 +34,10 @@ Capitulos/*.aux
 # Diretórios diversos não rastreados: 
 fontes/fontes_absolutas
 /.github
+fontes/recursos_ifms/Caio/*.md
+fontes/recursos_ifms/Laurentino/*.md
+
+# Prompt de pesquisa
+
+Rascunho.md
+resenha_model.md
